@@ -1,4 +1,4 @@
-# AWS-EC2---Hospedagem-e-Publica-o-de-Aplica-o-Web
+# Deploy de Aplicação Web na AWS com Amazon EC2 e Apache
 
 # AWS Web Application Deployment
 
